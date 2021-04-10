@@ -36,11 +36,7 @@ setup(
     #
     # Declare a few console scripts
     # When the package is installed by root, those will be found in /usr/local/bin
-    entry_points={
-        'console_scripts': [
-            'imu_generator',
-        ],
-    },
+    entry_points={},
     #
     # Set package version according to git commits and tags
     # root is the location of the .git directory
