@@ -15,7 +15,6 @@ This anables you to test programms exploiting imu data.
 │       │   └── __init__.py
 │       └── tests
 │           └── __init__.py
-
 ├── setup.py
 └── tests
     └── __init__.py
