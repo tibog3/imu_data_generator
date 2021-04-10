@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 numpy = "*"
+pipfile = "*"
+setuptools-scm = "*"
 
 [dev-packages]
 
